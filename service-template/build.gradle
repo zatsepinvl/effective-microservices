@@ -1,0 +1,6 @@
+plugins {
+    id "effective-microservices.java"
+}
+
+group "org.effective.microservices"
+version "1.0-SNAPSHOT"
