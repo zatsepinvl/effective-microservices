@@ -6,3 +6,6 @@
 .gradle
 build
 gradle-wrapper.jar
+
+# Drawio
+*.drawio.bkp
